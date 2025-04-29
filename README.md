@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
-I used the exercise proposed by the frontend mentor, but I changed the example information to my personal information and links.
+My solution for the frontend mentor exercise.
 
 ### The challenge
 
